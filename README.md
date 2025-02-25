@@ -2,7 +2,8 @@
 
 A new Flutter project.
 ## Imagenes suplemento
-- ![alt text](image.png)
+- ![image](https://github.com/user-attachments/assets/41015d61-a223-497a-b258-e681ae862f53)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
